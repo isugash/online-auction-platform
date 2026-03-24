@@ -1,2 +1,3 @@
 Initial setup 
 Bidding feature added 
+Payment feature added 
