@@ -5,3 +5,4 @@ Bidding feature added
 Bidding feature added 
 Payment feature added 
 Improved bidding logic 
+Improved bidding logic v2 
